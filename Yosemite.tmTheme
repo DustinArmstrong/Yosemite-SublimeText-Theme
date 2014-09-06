@@ -355,6 +355,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#cf88e0</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -414,6 +416,28 @@
 			<dict>
 				<key>foreground</key>
 				<string>#f6f6f6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: ()</string>
+			<key>scope</key>
+			<string>punctuation.section.function.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#4ab8f2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS: String Quotes</string>
+			<key>scope</key>
+			<string>punctuation.definition.string.begin.css, punctuation.definition.string.end.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cf88e0</string>
 			</dict>
 		</dict>
 		<dict>
