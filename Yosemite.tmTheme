@@ -293,8 +293,6 @@
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#f6cf3f</string>
 			</dict>
 		</dict>
 		<dict>
