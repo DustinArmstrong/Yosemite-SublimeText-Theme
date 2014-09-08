@@ -9,11 +9,11 @@
 	<key>name</key>
 	<string>Yosemite</string>
 	<key>semanticClass</key>
-	<string>theme.dark.solarized_dark</string>
+	<string>theme.yosemite</string>
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#073642</string>
+		<string>#1a181a</string>
 		<key>divider</key>
 		<string>#a5a5a5</string>
 		<key>foreground</key>
@@ -35,11 +35,11 @@
 				<key>foreground</key>
 				<string>#f6f6f6</string>
 				<key>invisibles</key>
-				<string>#cecece</string>
+				<string>#0A0A0A</string>
 				<key>lineHighlight</key>
-				<string>#cecece</string>
+				<string>#0A0A0A</string>
 				<key>selection</key>
-				<string>#cecece</string>
+				<string>#0A0A0A</string>
 			</dict>
 		</dict>
 		<dict>
