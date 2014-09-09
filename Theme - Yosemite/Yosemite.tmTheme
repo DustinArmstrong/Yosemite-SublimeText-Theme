@@ -1026,6 +1026,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>JS: Keywords</string>
+			<key>scope</key>
+			<string>keyword.operator.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ec4d43</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>JS: Source</string>
 			<key>scope</key>
 			<string>text.html.basic source.js.embedded.html</string>
@@ -1061,6 +1072,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>JS: Quoted</string>
+			<key>scope</key>
+			<string>string.quoted.single.js, string.quoted.double.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f6cf3f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>JS: []</string>
 			<key>scope</key>
 			<string>meta.brace.square.js</string>
@@ -1079,6 +1101,39 @@
 			<dict>
 				<key>foreground</key>
 				<string>#4ab8f2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: Boolean True</string>
+			<key>scope</key>
+			<string>constant.language.boolean.true.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#76d863</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: Boolean False</string>
+			<key>scope</key>
+			<string>constant.language.boolean.false.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ec4d43</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: Inline Function</string>
+			<key>scope</key>
+			<string>storage.type.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cf88e0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1103,6 +1158,61 @@
 				<string>#ececec</string>
 			</dict>
 		</dict>
+
+
+
+
+
+		<dict>
+			<key>name</key>
+			<string>CoffeeScript: Quoted</string>
+			<key>scope</key>
+			<string>string.quoted.single.coffee, string.quoted.double.coffee</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f6cf3f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CoffeeScript: Boolean true</string>
+			<key>scope</key>
+			<string>constant.language.boolean.true.coffee</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#76d863</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CoffeeScript: Boolean False</string>
+			<key>scope</key>
+			<string>constant.language.boolean.false.coffee</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ec4d43</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CoffeeScript: Inline Function</string>
+			<key>scope</key>
+			<string>storage.type.function.coffee</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cf88e0</string>
+			</dict>
+		</dict>
+
+
+
+
+
+
 		<dict>
 			<key>name</key>
 			<string>HTML: Doctype</string>
